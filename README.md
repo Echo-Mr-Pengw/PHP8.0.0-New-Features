@@ -7,3 +7,5 @@
 ###### [6. ::class](https://github.com/Echo-Mr-Pengw/PHP8.0.0-New-Features/blob/master/src/class.php)
 ###### [7. error_reporting](https://github.com/Echo-Mr-Pengw/PHP8.0.0-New-Features/tree/master/src/php.ini)
 ###### [8. Attributes(注解)](https://github.com/Echo-Mr-Pengw/PHP8.0.0-New-Features/blob/master/src/attributes.php)
+
+###### 全部特性，请见[官网](https://wiki.php.net/rfc)
